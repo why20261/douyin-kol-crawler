@@ -230,7 +230,7 @@ stdout 只有一份统一信封（成功 / 空结果 / 错误结构相同）：
     "limit": 20
   },
   "metadata": {
-    "skill_version": "1.5.0",
+    "skill_version": "1.4.0",
     "runtime_version": "22.x",
     "execution_time": 34210
   },
